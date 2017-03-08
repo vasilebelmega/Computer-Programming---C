@@ -1,4 +1,4 @@
-Palindorom
+﻿Palindrom
 =========
 Câte palindroame mai mici decât X se pot scrie ca produs de 2 numere diferite de P cifre?
 
