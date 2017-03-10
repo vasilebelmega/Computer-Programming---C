@@ -1,6 +1,6 @@
-Hash Tabels
+﻿Hash Tables
 =========
-Pentru implementarea backend-ului unui server DNS se poate utiliza o structură de date ce se pliază foarte bine pe nevoile de mai sus. Această structură porneste de la metoda LRU
+Pentru implementarea backend-ului unui server DNS se poate utiliza o structură de date ce se pliază foarte bine pe nevoile de mai sus. Această structură pornește de la metoda LRU
 _IP=64.233.160.4_
 
 Cache (Least Recently Used Cache) care reține în memorie doar cele mai recent folosite înregistrări. Această structură utilizează o tabelă hash.
